@@ -54,6 +54,12 @@ project.fragment.lock.json
 artifacts/
 **/Properties/launchSettings.json
 
+# Visual Studio Code
+.vscode
+
+# Visual Studio Code
+.DS_Store
+
 # StyleCop
 StyleCopReport.xml
 
